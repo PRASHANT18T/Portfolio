@@ -264,7 +264,15 @@ filter: drop-shadow(1px 10px 15px #ec9d09);
     width: 100%;
     background-position: center;
     background-size: cover;
+    
 
+}
+
+.box {
+filter: grayscale(100%);
+}
+.box:hover{
+    filter: grayscale(0%);
 }
 
 #languags1 {
@@ -278,6 +286,8 @@ filter: drop-shadow(1px 10px 15px #ec9d09);
     justify-content: space-around;
     padding: 40px 0 0 0;
 }
+
+
 
 #htmllogo {
 
