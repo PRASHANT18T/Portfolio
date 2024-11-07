@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+
+#navbar {
+     background-color: black; 
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+#navbar a {
+    text-decoration: none;
+}
+
+#logo {
+    font-size: 45px;
+    color: white;
+    /* background-image: url(img.jpg/OIP\ \(6\).jpg);
+background-size: cover;
+background-position: center;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent; */
+text-shadow:   0px 0px 10px cyan , 
+0px 0px 20px cyan ,
+0px 0px 40px cyan ,
+0px 0px 80px cyan;
+
+}
+
+
+
+#navli {
+    display: flex;
+    align-items: center;
+}
+
+#navli li {
+    margin-right: 25px;
+    list-style-type: none;
+    font-size: 30px;
+    color: white;
+    text-shadow:   0px 0px 10px cyan , 
+    0px 0px 20px cyan ,
+  0px 0px 40px cyan ,
+  0px 0px 80px cyan;
+  /* border: 1.5px #00ffff transparent; */
+}
+#navli li:hover {
+    /* border: 1.5px #00FFFF solid; */
+    font-size:40px ;
+}
+
+
+.container {
+    max-width: 800px;
+    padding: 2em;
+    background: #ffffff;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    text-align: center;
+}
+h1 {
+    color: #333;
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+.bio {
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-bottom: 1.5em;
+}
+.skills {
+    margin-top: 1em;
+}
+.skills h2 {
+    font-size: 1.5em;
+    color: #333;
+    border-bottom: 2px solid #333;
+    padding-bottom: 0.3em;
+    margin-bottom: 0.8em;
+    display: inline-block;
+}
+.skills-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.skills-list li {
+    background-color: #e0e0e0;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    font-size: 1em;
+    color: #333;
+}

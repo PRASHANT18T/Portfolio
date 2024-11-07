@@ -114,3 +114,38 @@ text-shadow:   0px 0px 10px cyan ,
 .contact-form button:hover {
     background-color: #45a049;
 }
+
+
+.contact-card {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+}
+
+.contact-card h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.contact-card p {
+    color: #555;
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+.contact-card a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.contact-card a:hover {
+    text-decoration: underline;
+}
+#infobox{
+    display: inline-block;
+    margin: 100px 0 0 100px;
+}

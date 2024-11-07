@@ -85,10 +85,10 @@ text-shadow:   0px 0px 10px cyan ,
     font-size: 60px;
     color: white;
     padding: 0 0 0px 73px;
-    text-shadow:   0px 0px 10px rgb(236, 157, 9) , 
-    0px 0px 20px rgb(236, 157, 9)  ,
-  0px 0px 40px rgb(236, 157, 9) ,
-  0px 0px 80px rgb(236, 157, 9) ;
+    text-shadow:   0px 0px 10px rgb(240, 144, 10) , 
+    0px 0px 20px rgb(240, 144, 10)  ,
+  0px 0px 40px rgb(240, 144, 10)  ,
+  0px 0px 80px rgb(240, 144, 10)  ;
 
 }
 
@@ -162,10 +162,10 @@ text-shadow:   0px 0px 10px cyan ,
 }
 #seconddiv ul a  :hover{
     font-size: 25px ;
-    text-shadow:   0px 0px 10px rgb(236, 157, 9) , 
-    0px 0px 20px rgb(236, 157, 9)  ,
-  0px 0px 40px rgb(236, 157, 9) ,
-  0px 0px 80px rgb(236, 157, 9) ;
+    text-shadow:   0px 0px 10px rgb(240, 144, 10)  , 
+    0px 0px 20px rgb(240, 144, 10)   ,
+  0px 0px 40px rgb(240, 144, 10)  ,
+  0px 0px 80px rgb(240, 144, 10)  ;
 }
 
 #seconddiv1 {
